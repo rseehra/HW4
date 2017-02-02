@@ -1,0 +1,26 @@
+body{
+    
+    background-color: green;
+}
+img{
+    display: flex;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+
+}
+.list{
+    
+    font-size: 30px;
+    background-color: blue;
+}
+
+h1,h2{
+    color: red;
+    font-family: verdana;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size:24px;
+}
